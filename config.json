@@ -16,18 +16,18 @@
     ],
     "autoRestart": 3600000,
     "UPTIME": 8724188.91791798,
-    "ACCESSTOKEN": "EAAD6V7os0gcBO0vCRZCP9X9HHO6DAm1rgYVOHtBGhpULPqOwdZBURXndaWZCH4XQvXNhOMPGHlZCRUNZCB9wiWd4O5ZCzCyMb0Qy0OgSEKjEEzZAfDMz68cZBSduBIIDsVQ3Oba3ZB2shnmU31VLmJpKj06UvBOaSTG3jhurXBaZCTjGZCjDbZBzSxFxT3WZANAZDZD",
-    "FACEBOOK_ADMIN": "https://m.facebook.com/profile.php?id=61577191230420",
+    "ACCESSTOKEN": "EAABsbCS1iHgBPbT9YvIlKjt8mXLvNKj41gdnTOzmchO0t8QkI0VbWk37cXi17qfOmsrLqAQtBtBHFT1dkZCCgtpd7Hw6Nal9a53Hgi33EuS0lb2Im9Ir70tM9JIXM2cMffT2Yo45WsTkM9kL7GoqpRIzppWynDM0xWaVpftmdLMscuh9sjOq2MuzlRCkqfQZDZD",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/profile.php?id=61579760900997",
     "ZALO_ADMIN": "0xxxxx",
-    "ADMIN_NAME": "SHANKAR SINGHANIYA",
-    "BOTNAME": "PIKA PI",
-    "PREFIX": ".",
+    "ADMIN_NAME": "ALEX KHAN",
+    "BOTNAME": "MOTU PATLU",
+    "PREFIX": "+",
     "ADMINBOT": [
-        "61577191230420",
+        "61579760900997",
         ""
     ],
     "NDH": [
-        "61577191230420"
+        "61579760900997"
     ],
     "DATABASE": {
         "sqlite": {
